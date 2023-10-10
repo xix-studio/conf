@@ -1,0 +1,11 @@
+.angular
+/.keystore
+/**/*/.next
+/**/*/dump
+/coverage
+/dist
+package-lock.json
+pnpm-lock.yaml
+schema.graphql
+schema.prisma
+yarn.lock
