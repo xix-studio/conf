@@ -3,6 +3,7 @@
 /**/*/.next
 /**/*/dump
 /coverage
+/.nx/cache
 /dist
 package-lock.json
 pnpm-lock.yaml
