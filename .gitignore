@@ -46,4 +46,4 @@ Thumbs.db
 !*.env.example
 
 # Assets
-**/assets
+**/assets/*
